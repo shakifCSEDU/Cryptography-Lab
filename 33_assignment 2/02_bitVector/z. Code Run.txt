@@ -1,0 +1,11 @@
+------------------------------EncryptForFun---------------------------------
+
+python EncryptForFun.py message.txt output.txt
+
+------------------------------DecryptForFun---------------------------------
+
+python DecryptionForFun.py output.txt recover.txt
+
+------------------------------cryptBreak.py---------------------------------
+
+python cryptBreak.py cipherText.txt

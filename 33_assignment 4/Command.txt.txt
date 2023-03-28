@@ -1,0 +1,7 @@
+python DES_text.py ENCRYPT data/message.txt data/key.txt data/encrypted.txt
+
+python DES_text.py DECRYPT data/encrypted.txt data/key.txt data/decrypted.txt
+
+python DES_image.py ENCRYPT img/cat.ppm data/key.txt img/encrypted.ppm
+
+python DES_image.py DECRYPT img/encrypted.ppm data/key.txt img/decrypted.ppm
